@@ -1,1 +1,1 @@
-"# Eternal Return" 
+# Eternal Return
